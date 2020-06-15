@@ -1,13 +1,21 @@
 # T2 - Qualidade de Software - Cypress
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+Trabalho 2 da disciplina de Qualidade de Software.
+
+<b>Grupo:</b> Leonardo Trindade e Viviane Dilkin Endler.
+
+<b>Site testado:</b> https://www.ut.edu
+
+
 
 ## Setup
 
-```js
+```
 npm install
 ```
-```js
+
+## Run Cypress
+
+```
 ./node_modules/.bin/cypress open
 ```
-
