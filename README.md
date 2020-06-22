@@ -12,7 +12,7 @@ Trabalho 2 da disciplina de Qualidade de Software.
 
 <b>Site testado:</b> [The University of Tampa.](https://www.ut.edu)
 
-<b>Apresentação:</b> [Slides](#)
+<b>Apresentação:</b> [Slides](https://github.com/ltrindadebr/t2-qualidade-cypress/blob/master/Apresenta%C3%A7%C3%A3o.pdf)
 
 ## Setup
 
