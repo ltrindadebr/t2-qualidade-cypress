@@ -1,7 +1,7 @@
 # T2 - Qualidade de Software - Cypress
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png">
+  <img src="https://raw.githubusercontent.com/ltrindadebr/t2-qualidade-cypress/master/logo.png">
 </p>
 
 Trabalho 2 da disciplina de Qualidade de Software.
@@ -12,7 +12,7 @@ Trabalho 2 da disciplina de Qualidade de Software.
 
 <b>Site testado:</b> [The University of Tampa.](https://www.ut.edu)
 
-<b>Apresentação:</b> [Slides](https://github.com/ltrindadebr/t2-qualidade-cypress/blob/master/Apresenta%C3%A7%C3%A3o.pdf)
+<b>Apresentação:</b> [Slides.](https://github.com/ltrindadebr/t2-qualidade-cypress/blob/master/Apresenta%C3%A7%C3%A3o.pdf)
 
 ## Setup
 
