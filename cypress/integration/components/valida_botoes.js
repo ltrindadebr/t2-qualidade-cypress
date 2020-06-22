@@ -1,5 +1,6 @@
 import { btnMoveInMaps } from '../../css_selectors.js'
 
+// Componente de botão
 describe('Validação de botões', () => {
   it('Acessa página Mapa do Campus', () => {
     cy.visit('https://www.ut.edu/about-ut/campus-map');

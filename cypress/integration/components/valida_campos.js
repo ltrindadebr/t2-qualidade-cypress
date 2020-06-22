@@ -3,10 +3,12 @@ describe('Validação de campos', () => {
     cy.visit('https://graduate.ut.edu/account/register');
   });
 
+  // Componente de título de página
   it('Verifica o nome da pagina', () => {
     cy.title().should('eq', 'Register Account');
   });
   
+  // Componente de texto
   it('Insere email, nome e sobrenome', () => {
     let email = 'fulano@inf.ufsm.br';
     let firstName = 'Fulano';
@@ -22,6 +24,7 @@ describe('Validação de campos', () => {
       .type(lastName, { delay: 100 });
   });
   
+  // Componente de seleção
   it('Insere data de nascimento', () => {
     cy.get('select[id="birthdate_m"]')
       .select('April')

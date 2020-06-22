@@ -3,4 +3,5 @@ module.exports = {
   iconSearch: 'li.search > a:nth-child(1) > i:nth-child(1)',
   inputSearch: '.search-wrap > div:nth-child(1) > form:nth-child(1) > input:nth-child(1)',
   buttonSearch: '.search-wrap > div:nth-child(1) > form:nth-child(1) > button:nth-child(2)',
+  imageA: 'article.fit-grid-item:nth-child(1) > a:nth-child(1)',
 };
